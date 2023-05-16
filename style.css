@@ -229,16 +229,16 @@ header .navbar a:hover {
   border-radius: 10px;
 }
 .html-bar {
-  width: 94%;
+  width: 33%;
 }
 .css-bar {
-  width: 84%;
+  width: 24%;
 }
 .js-bar {
-  width: 65%;
+  width: 15%;
 }
 .ux-bar {
-  width: 80%;
+  width: 70%;
 }
 .portfolio-content {
   display: flex;
